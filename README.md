@@ -1,61 +1,6 @@
-<!-- Encabezado con imagen central -->
-<p align="center">
-  <img src="https://drive.google.com/file/d/1Cd5CvEn4VY5mI220WTtgswq5Spwq1DFL/view?usp=sharing" alt="Machine Learning con Python" width="200"/>
-</p>
-
-<h1 align="center">Máquinas de Aprendizaje</h1>
-
-<p align="center">
-Repositorio pedagógico interactivo sobre Machine Learning (Aprendizaje Automático), diseñado para facilitar el aprendizaje, la enseñanza y la experimentación con algoritmos clásicos y modernos.<br>
-Ideal para estudiantes, docentes y entusiastas de la ciencia de datos.
-</p>
-
-
-
- 🎯 Objetivo
-
-Este proyecto busca ofrecer una guía estructurada y didáctica que contenga:
-
-- Explicaciones técnicas claras y contextualizadas.
-- Ejemplos prácticos en Python con bibliotecas populares.
-- Visualizaciones interactivas en HTML (Plotly, Dash, Voilá).
-- Actividades autoevaluables y laboratorios exploratorios.
-
-
-
-📚 Temáticas 
-
-### Aprendizaje Supervisado
-- Regresión Lineal
-- Regresión Logística
-- Máquinas de Vectores de Soporte (SVM)
-- Árboles de Decisión y Bosques Aleatorios
-- k-Vecinos más Cercanos (k-NN)
-
-### Aprendizaje No Supervisado
-- Agrupamiento (K-Means, DBSCAN)
-- Reducción de Dimensiones (PCA, t-SNE)
-- Autoencoders
-
-### Aprendizaje por Refuerzo
-- Algoritmos clásicos y simulaciones
-
-### Evaluación de Modelos
-- Matriz de Confusión
-- Accuracy, Precision, Recall, F1-score
-- Curvas ROC y AUC
-
-### Preparación de Datos
-- Limpieza, transformación y escalado
-- Ingeniería de características
-
-### Visualización y Dashboards
-- Gráficos con Plotly, Bokeh
-- Paneles interactivos con Dash y Voilá
-
 <!-- Título y logo -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/eduardoleon9010/python-andes/main/assets/logo-ml-python-3d.png" alt="Machine Learning con Python" width="200"/>
+  <img src="https://drive.google.com/uc?export=view&id=ID_DEL_ARCHIVO" alt="Machine Learning con Python" width="200"/>
   <h1>Máquinas de Aprendizaje</h1>
   <p style="font-size: 1.2em;">Repositorio pedagógico interactivo sobre Machine Learning</p>
 </div>
