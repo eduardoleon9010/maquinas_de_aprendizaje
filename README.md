@@ -13,7 +13,7 @@
 Diseñar una guía completa y estructurada sobre *Machine Learning*, orientada a la docencia y aprendizaje práctico. Este repositorio:
 
 <ul>
- Explica conceptos con lenguaje claro y accesible.
+  Explica conceptos con lenguaje claro y accesible.
   
   Incluye ejemplos funcionales en Python.
   
@@ -68,11 +68,12 @@ Diseñar una guía completa y estructurada sobre *Machine Learning*, orientada a
 
 <ul>
   <strong>Estudiantes</strong> que inician en el mundo del Machine Learning.
+  
   <strong>Docentes</strong> que requieren recursos visuales y prácticos.
   
- <strong>Desarrolladores y analistas</strong> en búsqueda de prototipos rápidos.
+  <strong>Desarrolladores y analistas</strong> en búsqueda de prototipos rápidos.
  
-  ><strong>Curiosos tecnológicos</strong> que desean aprender desde el código.
+  <strong>Curiosos tecnológicos</strong> que desean aprender desde el código.
 </ul>
 
 
