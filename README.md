@@ -14,8 +14,11 @@ Diseñar una guía completa y estructurada sobre *Machine Learning*, orientada a
 
 <ul>
  Explica conceptos con lenguaje claro y accesible.
+  
   Incluye ejemplos funcionales en Python.
+  
   Integra visualizaciones y componentes HTML interactivos.
+  
   Proporciona actividades y ejercicios guiados.
 </ul>
 
@@ -35,8 +38,12 @@ Diseñar una guía completa y estructurada sobre *Machine Learning*, orientada a
         <ul>
           <Regresión Lineal
           Regresión Logística
-          <li>SVM</li>
-          <li>Árboles de Decisión</li>
+          
+            SVM
+            
+          
+          Árboles de Decisión
+          
           <li>k-NN</li>
         </ul>
       </td>
