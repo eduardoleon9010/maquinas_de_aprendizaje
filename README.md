@@ -3,12 +3,6 @@
   <img src="https://cdn.jsdelivr.net/gh/eduardoleon9010/python-andes/assets/logo-ml-python-3d.png" alt="Logo Machine Learning con Python" width="200" />
 </p>
 
-<h1 align="center">Máquinas de Aprendizaje con Python</h1>
-
-<p align="center">
-  Un espacio diseñado para que aprendas, explores y apliques los principales algoritmos del aprendizaje automático de forma práctica, visual e intuitiva.
-</p>
-
 <!-- Encabezado con título y logo centrado -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/eduardoleon9010/python-andes/main/assets/logo-ml-python-3d.png" alt="Machine Learning con Python" width="250" />
@@ -31,7 +25,7 @@
 
 
 
-<h2 align="center">Tecnologías Clave</h2>
+<h2 align="center">Tecnologías clave</h2>
 
 <p align="center">Este proyecto integra herramientas modernas de ciencia de datos y visualización interactiva:</p>
 
