@@ -67,13 +67,13 @@ Diseñar una guía completa y estructurada sobre *Machine Learning*, orientada a
 🎓 ¿A quién va dirigido?
 
 <ul>
-  <strong>Estudiantes</strong> que inician en el mundo del Machine Learning.
+  Estudiantes que inician en el mundo del Machine Learning.
   
-  <strong>Docentes</strong> que requieren recursos visuales y prácticos.
+  Docentes que requieren recursos visuales y prácticos.
   
-  <strong>Desarrolladores y analistas</strong> en búsqueda de prototipos rápidos.
+  Desarrolladores y analistas en búsqueda de prototipos rápidos.
  
-  <strong>Curiosos tecnológicos</strong> que desean aprender desde el código.
+  Curiosos tecnológicos que desean aprender desde el código.
 </ul>
 
 
