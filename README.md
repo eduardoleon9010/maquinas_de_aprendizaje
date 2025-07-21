@@ -3,22 +3,22 @@
   <img src="https://cdn.jsdelivr.net/gh/eduardoleon9010/python-andes/assets/logo-ml-python-3d.png" alt="Logo Machine Learning con Python" width="200" />
 </p>
 
-<h1 align="center">Máquinas de Aprendizaje con Python</h1>
+<h1 ="center">Máquinas de Aprendizaje con Python</h1>
 
 <p align="center">
   Un espacio diseñado para que aprendas, explores y apliques los principales algoritmos del aprendizaje automático de forma práctica, visual e intuitiva.
 </p>
 
 <!-- Encabezado con título y logo centrado -->
-<div align="center">
+<div ="">
   <img src="https://raw.githubusercontent.com/eduardoleon9010/python-andes/main/assets/logo-ml-python-3d.png" alt="Machine Learning con Python" width="250" />
   <h1>Máquinas de Aprendizaje</h1>
   <p><strong>Repositorio pedagógico interactivo sobre Machine Learning con Python</strong></p>
 </div>
 
-<h2 align="">¿A quién va dirigido?</h2>
+<h2 ="">¿A quién va dirigido?</h2>
 
-<p align="">
+<p ="">
   Este repositorio está diseñado para apoyar:
 </p>
 
@@ -31,7 +31,7 @@
 
 
 
-<h2 align="center">Tecnologías clave</h2>
+<h2 align="">Tecnologías clave</h2>
 
 <p align="">Este proyecto integra herramientas modernas de ciencia de datos y visualización interactiva:</p>
 
@@ -51,17 +51,17 @@
 
 
 
-<h2 align="center">Licencia</h2>
+<h2 align="">Licencia</h2>
 
-<p align="center">
+<p align="">
 Este proyecto está licenciado bajo la <a href="https://opensource.org/licenses/MIT" target="_blank">Licencia MIT</a>. Puedes usarlo, modificarlo y compartirlo, siempre reconociendo su fuente.
 </p>
 
 
 
-<h2 align="center">¿Te gustaría contribuir?</h2>
+<h2 align="">¿Te gustaría contribuir?</h2>
 
-<p align="center">
+<p align="">
 Este es un proyecto abierto. Si tienes ideas, mejoras o deseas colaborar, puedes abrir una issue o un pull request.
 </p>
 
