@@ -1,9 +1,10 @@
 <!-- Título y logo -->
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=ID_DEL_ARCHIVO" alt="Machine Learning con Python" width="200"/>
+  <img src="https://drive.google.com/uc?export=view&id=1Cd5CvEn4VY5mI220WTtgswq5Spwq1DFL" alt="Machine Learning con Python" width="200"/>
   <h1>Máquinas de Aprendizaje</h1>
   <p style="font-size: 1.2em;">Repositorio pedagógico interactivo sobre Machine Learning</p>
 </div>
+
 
 
 
