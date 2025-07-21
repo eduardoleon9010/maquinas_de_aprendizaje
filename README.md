@@ -1,78 +1,46 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/eduardoleon9010/maquinas_de_aprendizaje/main/assets/logo-ml-python-3d.png" alt="Machine Learning con Python" width="300"/>
-</div>
+<!-- Encabezado con logo centrado funcional (reemplazable por uno propio) -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/eduardoleon9010/python-andes/assets/logo-ml-python-3d.png" alt="Logo Machine Learning con Python" width="200" />
+</p>
 
-# Máquinas de Aprendizaje
+<h1 align="center">Máquinas de Aprendizaje con Python</h1>
 
-Este repositorio tiene como objetivo proporcionar una guía integral, práctica y didáctica sobre los algoritmos más relevantes del **Machine Learning (Aprendizaje Automático)**, utilizando Python como lenguaje base. Está diseñado para estudiantes, docentes y profesionales que desean aprender, enseñar o aplicar técnicas de aprendizaje automático de forma estructurada y aplicada.
-
----
-
-## Objetivo
-
-Ofrecer una base sólida para comprender y experimentar con los modelos de aprendizaje automático, mediante recursos organizados por temática, con:
-
-- Explicaciones claras y contextualizadas.
-- Ejemplos prácticos en Python.
-- Visualizaciones interactivas y plantillas HTML integradas.
-- Actividades didácticas para el autoaprendizaje o enseñanza guiada.
+<p align="center">
+  Un espacio diseñado para que aprendas, explores y apliques los principales algoritmos del aprendizaje automático de forma práctica, visual e intuitiva.
+</p>
 
 ---
 
-## Estructura de Temáticas
+## 🧭 ¿Qué encontrarás aquí?
 
-### 1. Aprendizaje Supervisado
+Este repositorio es mucho más que una colección de notebooks. Es una **ruta de aprendizaje activa** que integra:
 
-- Regresión Lineal
-- Regresión Logística
-- Máquinas de Vectores de Soporte (SVM)
-- Árboles de Decisión y Bosques Aleatorios (Random Forest)
-- k-Vecinos más Cercanos (k-NN)
-
-### 2. Aprendizaje No Supervisado
-
-- Algoritmos de Agrupamiento: K-Means, DBSCAN
-- Reducción de Dimensiones: PCA, t-SNE
-- Autoencoders
-
-### 3. Aprendizaje por Refuerzo
-
-- Agentes, recompensas y ambientes simulados
-- Q-Learning básico
-
-### 4. Evaluación de Modelos y Métricas
-
-- Matriz de Confusión
-- Accuracy, Precision, Recall, F1-score
-- Curvas ROC y AUC
-
-### 5. Preparación de Datos
-
-- Limpieza, transformación y escalado
-- Ingeniería de características
-
-### 6. Visualización de Resultados y Dashboards
-
-- Gráficos interactivos con Plotly, Bokeh
-- Visualizadores embebidos en HTML y notebooks
-- Dashboards pedagógicos para análisis exploratorio
+- Guías conceptuales claras y progresivas.
+- Modelos implementados paso a paso en Python.
+- Visualizaciones dinámicas con Plotly y Dash.
+- Paneles HTML embebidos para explorar algoritmos sin salir del navegador.
+- Actividades diseñadas con enfoque pedagógico.
 
 ---
 
-## ¿Cómo usar este repositorio?
+## 📂 Estructura del contenido
 
-Cada carpeta temática contiene:
-
-- Una guía explicativa en formato Markdown o HTML.
-- Cuadernos Jupyter interactivos con código comentado.
-- Recursos visuales y widgets integrados.
-- Actividades propuestas con solución.
-
-Este repositorio está en constante evolución. Se invita a contribuir, proponer mejoras o reportar errores para fortalecer el aprendizaje colectivo.
+| Módulo | Temática | Recursos |
+|--------|----------|----------|
+| 1 | Introducción al Aprendizaje Automático | Fundamentos, librerías base, entorno de trabajo |
+| 2 | Aprendizaje Supervisado | Regresión, Clasificación, Árboles, SVM, k-NN |
+| 3 | Aprendizaje No Supervisado | K-Means, DBSCAN, PCA, t-SNE, Autoencoders |
+| 4 | Evaluación de Modelos | Métricas, Matriz de Confusión, ROC, AUC |
+| 5 | Ingeniería de Datos | Preprocesamiento, escalado, encoding |
+| 6 | Visualización Interactiva | Dashboards con Plotly, análisis visual |
+| 7 | Proyectos Aplicados | Casos reales y notebooks didácticos |
 
 ---
 
-## Licencia
+## 🚀 ¿Cómo comenzar?
 
-Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+1. Clona este repositorio en tu máquina local:
+   ```bash
+   git clone https://github.com/eduardoleon9010/maquinas_de_aprendizaje.git
+
 
