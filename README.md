@@ -13,10 +13,10 @@
 Diseñar una guía completa y estructurada sobre *Machine Learning*, orientada a la docencia y aprendizaje práctico. Este repositorio:
 
 <ul>
-  <li>Explica conceptos con lenguaje claro y accesible.</li>
-  <li>Incluye ejemplos funcionales en Python.</li>
-  <li>Integra visualizaciones y componentes HTML interactivos.</li>
-  <li>Proporciona actividades y ejercicios guiados.</li>
+ Explica conceptos con lenguaje claro y accesible.
+  Incluye ejemplos funcionales en Python.
+  Integra visualizaciones y componentes HTML interactivos.
+  Proporciona actividades y ejercicios guiados.
 </ul>
 
 
@@ -33,8 +33,8 @@ Diseñar una guía completa y estructurada sobre *Machine Learning*, orientada a
     <tr>
       <td>
         <ul>
-          <li>Regresión Lineal</li>
-          <li>Regresión Logística</li>
+          <Regresión Lineal
+          Regresión Logística
           <li>SVM</li>
           <li>Árboles de Decisión</li>
           <li>k-NN</li>
