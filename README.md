@@ -1,64 +1,71 @@
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Python_logo_notext.svg" alt="Logo Machine Learning con Python" width="120"/>
-  <h1>Máquinas de Aprendizaje</h1>
-  <p><strong>Repositorio pedagógico interactivo sobre Machine Learning</strong></p>
-</div>
+<!-- Encabezado con imagen central -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eduardoleon9010/maquinas_de_aprendizaje/main/assets/ml_python_logo_3d.png" alt="Machine Learning con Python" width="200"/>
+</p>
+
+<h1 align="center">Máquinas de Aprendizaje</h1>
+
+<p align="center">
+Repositorio pedagógico interactivo sobre Machine Learning (Aprendizaje Automático), diseñado para facilitar el aprendizaje, la enseñanza y la experimentación con algoritmos clásicos y modernos.<br>
+Ideal para estudiantes, docentes y entusiastas de la ciencia de datos.
+</p>
 
 ---
 
-## Objetivo
+## 🎯 Objetivo
 
-Este repositorio tiene como propósito brindar una guía clara, práctica y estructurada para el aprendizaje del Machine Learning. Está diseñado para facilitar la enseñanza y la experimentación con algoritmos clásicos y modernos, mediante:
+Este proyecto busca ofrecer una guía estructurada y didáctica que contenga:
 
-- Explicaciones conceptuales accesibles.
-- Ejemplos prácticos en Python.
-- Visualizaciones y componentes interactivos.
-- Actividades pedagógicas.
+- Explicaciones técnicas claras y contextualizadas.
+- Ejemplos prácticos en Python con bibliotecas populares.
+- Visualizaciones interactivas en HTML (Plotly, Dash, Voilá).
+- Actividades autoevaluables y laboratorios exploratorios.
 
 ---
 
-## Temáticas
+## 📚 Temáticas principales
 
 ### Aprendizaje Supervisado
-- Regresión Lineal  
-- Regresión Logística  
-- Máquinas de Vectores de Soporte (SVM)  
-- Árboles de Decisión y Bosques Aleatorios  
-- k-Vecinos más Cercanos (k-NN)  
+- Regresión Lineal
+- Regresión Logística
+- Máquinas de Vectores de Soporte (SVM)
+- Árboles de Decisión y Bosques Aleatorios
+- k-Vecinos más Cercanos (k-NN)
 
 ### Aprendizaje No Supervisado
-- Agrupamiento (K-Means, DBSCAN)  
-- Reducción de Dimensiones (PCA, t-SNE)  
-- Autoencoders  
+- Agrupamiento (K-Means, DBSCAN)
+- Reducción de Dimensiones (PCA, t-SNE)
+- Autoencoders
 
 ### Aprendizaje por Refuerzo
-- Fundamentos y entornos de entrenamiento  
+- Algoritmos clásicos y simulaciones
 
 ### Evaluación de Modelos
-- Matriz de Confusión  
-- Accuracy, Precision, Recall, F1-score  
-- Curvas ROC y AUC  
+- Matriz de Confusión
+- Accuracy, Precision, Recall, F1-score
+- Curvas ROC y AUC
 
 ### Preparación de Datos
-- Limpieza y transformación de datos  
-- Escalado y normalización  
-- Ingeniería de características  
+- Limpieza, transformación y escalado
+- Ingeniería de características
 
 ### Visualización y Dashboards
-- Gráficos interactivos con Plotly y Bokeh  
-- Visualización embebida con HTML y Jupyter  
-- Dashboards con Voila y Dash  
+- Gráficos con Plotly, Bokeh
+- Paneles interactivos con Dash y Voilá
 
 ---
 
-## ¿A quién va dirigido?
+## 👥 ¿A quién va dirigido?
 
-Este material está dirigido a:
+```html
+<ul>
+  <li><strong>Estudiantes:</strong> que se inician en el aprendizaje automático.</li>
+  <li><strong>Docentes:</strong> que necesitan recursos interactivos y estructurados.</li>
+  <li><strong>Desarrolladores:</strong> que desean prototipar soluciones con IA.</li>
+  <li><strong>Entusiastas:</strong> de la tecnología y el análisis de datos.</li>
+</ul>
 
-- Estudiantes que se inician en el mundo del Machine Learning.
-- Docentes que buscan recursos didácticos para sus clases.
-- Desarrolladores y analistas que desean prototipar soluciones.
-- Personas autodidactas con interés en la ciencia de datos.
+
 
 ---
 
