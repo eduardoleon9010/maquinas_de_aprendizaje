@@ -30,45 +30,38 @@ Diseñar una guía completa y estructurada sobre *Machine Learning*, orientada a
 
 <table>
   <thead>
-    <tr><th style="text-align:center;">Aprendizaje Supervisado</th><th style="text-align:center;">No Supervisado</th><th style="text-align:center;">Otros</th></tr>
+    <tr>
+      <th style="text-align:center;">Aprendizaje Supervisado</th>
+      <th style="text-align:center;">No Supervisado</th>
+      <th style="text-align:center;">Otros</th>
+    </tr>
   </thead>
   <tbody>
     <tr>
-      <td>
-        <ul>
-          <Regresión Lineal
-          Regresión Logística
-          
-            SVM
-            
-          
-          Árboles de Decisión
-          
-          <li>k-NN</li>
-        </ul>
+      <td style="text-align:left;">
+        Regresión Lineal<br>
+        Regresión Logística<br>
+        SVM<br>
+        Árboles de Decisión<br>
+        k-NN
       </td>
-      <td>
-        <ul>
-          <li>K-Means</li>
-          <li>DBSCAN</li>
-          <li>PCA / t-SNE</li>
-          <li>Autoencoders</li>
-        </ul>
+      <td style="text-align:left;">
+        K-Means<br>
+        DBSCAN<br>
+        PCA / t-SNE<br>
+        Autoencoders
       </td>
-      <td>
-        <ul>
-          <li>Evaluación de modelos</li>
-          <li>Preparación de datos</li>
-          <li>Visualización interactiva</li>
-          <li>Dashboards con Plotly & Dash</li>
-        </ul>
+      <td style="text-align:left;">
+        Evaluación de modelos<br>
+        Preparación de datos<br>
+        Visualización interactiva<br>
+        Dashboards con Plotly & Dash
       </td>
     </tr>
   </tbody>
 </table>
 
 </div>
-
 
 
 🎓 ¿A quién va dirigido?
