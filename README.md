@@ -21,7 +21,7 @@ Diseñar una guía completa y estructurada sobre *Machine Learning*, orientada a
 
 
 
- 📂 Temáticas Principales
+ 📂 Temáticas 
 
 <div align="center">
 
@@ -75,7 +75,7 @@ Diseñar una guía completa y estructurada sobre *Machine Learning*, orientada a
 
 
 
- 🧪 Tecnologías Clave
+ 🧪 Tecnologías 
 
 <div align="center">
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
