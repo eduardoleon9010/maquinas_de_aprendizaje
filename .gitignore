@@ -1,0 +1,59 @@
+# Archivos de entorno virtual
+venv/
+.env/
+.envrc
+
+# Archivos temporales de Jupyter y VS Code
+.ipynb_checkpoints/
+.vscode/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs y errores
+*.log
+*.out
+*.err
+
+# Archivos de compilación
+__pycache__/
+*.py[cod]
+*.so
+
+# Archivos de datos y modelos
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.zip
+*.tar.gz
+*.h5
+*.pkl
+*.joblib
+*.db
+
+# Carpetas comunes para resultados y datos
+results/
+output/
+data/
+datasets/
+models/
+checkpoints/
+
+# Archivos HTML generados automáticamente
+*.html
+
+# Entornos de Anaconda
+*.conda
+*.ipynb_checkpoints/
+
+# Archivos de Jupyter Lab
+.lab/
+
+# Archivos convertidos de notebooks
+*.nbconvert.ipynb
+
+# Archivos de cache pip y metadata
+pip-wheel-metadata/
+*.egg-info/
