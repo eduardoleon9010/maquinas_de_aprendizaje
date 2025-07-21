@@ -68,9 +68,11 @@ Diseñar una guía completa y estructurada sobre *Machine Learning*, orientada a
 
 <ul>
   <strong>Estudiantes</strong> que inician en el mundo del Machine Learning.
-  <li><strong>Docentes</strong> que requieren recursos visuales y prácticos.</li>
-  <li><strong>Desarrolladores y analistas</strong> en búsqueda de prototipos rápidos.</li>
-  <li><strong>Curiosos tecnológicos</strong> que desean aprender desde el código.</li>
+  <strong>Docentes</strong> que requieren recursos visuales y prácticos.
+  
+ <strong>Desarrolladores y analistas</strong> en búsqueda de prototipos rápidos.
+ 
+  ><strong>Curiosos tecnológicos</strong> que desean aprender desde el código.
 </ul>
 
 
@@ -103,9 +105,11 @@ Este repositorio se distribuye bajo la Licencia MIT. Puedes usarlo, modificarlo 
 ¿Tienes ideas, mejoras o deseas colaborar? ¡Este espacio es abierto y comunitario!
 
 <ul>
-  <li>Abre un <strong>issue</strong> para sugerencias o reportes de errores.</li>
-  <li>Envía un <strong>pull request</strong> para contribuir con ejemplos, visualizaciones o mejoras.</li>
-  <li>Agrega tu experiencia y fortalece el aprendizaje compartido.</li>
+  Abre un <strong>issue</strong> para sugerencias o reportes de errores.
+
+  Envía un <strong>pull request</strong> para contribuir con ejemplos, visualizaciones o mejoras.
+  
+  Agrega tu experiencia y fortalece el aprendizaje compartido.
 </ul>
 
 <div align="center">
